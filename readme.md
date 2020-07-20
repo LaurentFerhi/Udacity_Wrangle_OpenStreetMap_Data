@@ -2,7 +2,7 @@
 
 Repository for Udacity data analyst nanodegree project : Udacity Wrangle OpenStreetMap Data
 
-### OpenStreetMap position : 
+### OpenStreetMap position: 
 https://www.openstreetmap.org/#map=12/55.8553/-4.2632
 
 ### Files related to the project submission:
